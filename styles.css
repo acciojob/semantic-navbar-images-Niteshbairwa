@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.navbar{
+	display:flex;
+	flex-dirextion:row;
+	gap: 10px;
+	
+}
